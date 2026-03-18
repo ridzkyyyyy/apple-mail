@@ -1,5 +1,7 @@
 # apple-mail
 
+![apple-mail](assets/social-card.png)
+
 an agent skill that gives AI coding assistants full control over macOS Mail.app. read, search, compose, reply, forward, move, delete, and label emails without leaving the editor.
 
 place this in your agent's skill directory (e.g. `.cursor/skills/`) and it can triage your inbox, draft replies, and organise mail on your behalf.
